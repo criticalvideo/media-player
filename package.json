@@ -1,7 +1,7 @@
 {
-  "name": "@eduardoroth/media-player",
+  "name": "@criticalvideo/media-player",
   "version": "4.0.9",
-  "description": "Updated Media Player for iOS, Android and Web",
+  "description": "Fork of EduardoRoth's media-player for capactor. Updated Media Player for iOS, Android and Web",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
   "types": "dist/esm/index.d.ts",
@@ -17,12 +17,24 @@
   ],
   "author": "Eduardo Roth <eduardo@eduardoroth.dev>",
   "license": "MIT",
+  "contributors" : [
+    {
+      "name" : "Eduardo Roth",
+      "email" : "eduardo@eduardoroth.de",
+      "url" : "https://eduardoroth.dev/"
+    },
+    {
+      "name" : "Ray Aguilar",
+      "email" : "flexgrip@gmail.com",
+      "url" : "https://rayaguilar.net"
+    }
+  ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eduardoRoth/media-player.git"
+    "url": "git+https://github.com/criticalvideo/media-player.git"
   },
   "bugs": {
-    "url": "https://github.com/eduardoRoth/media-player/issues"
+    "url": "https://github.com/criticalvideo/media-player/issues"
   },
   "keywords": [
     "capacitor",
